@@ -1,0 +1,17 @@
+Elementos:
+-Personaje: 
+	*Salto
+	*Caida acelerada
+	*Agacharse
+-Instanciador de enemigos:
+	*Distancia
+
+-Enemigos:
+	*Velocidad
+	*Tamaños
+	*Posiciones
+	*Destrucción al irse del mapa
+	
+-Hud:
+	*Tiempo
+	*Game over	
